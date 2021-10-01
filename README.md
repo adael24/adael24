@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adael24
+- 👀 I’m interested in games, basketball and anime
+- 🌱 I’m currently learning Angular, Laravel, .Net 5, DAD
+- 💞️ I’m looking to collaborate on Data Science, AI, Security
+- 📫 How to reach me adalaid.carranza@tec.mx
